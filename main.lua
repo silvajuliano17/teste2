@@ -8,6 +8,7 @@ function love.load()
     require("src/startup/gameStart")
     gameStart()
     createNewSave()
+    //julianosno
 
     loadMap("menu")
  
